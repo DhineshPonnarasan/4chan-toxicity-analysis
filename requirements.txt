@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+scipy
+requests
+openai
+google-api-python-client
+tqdm
